@@ -1,0 +1,7 @@
+Maya – change manipulator rotation axis
+
+1. Hit F8 key to go into component mode 
+2. Click the question mark icon that's located near the center in the menu at the top
+3. Select rotate tool then select an object and click on either the x y or z that appears.
+4. Use the Rotate tool to rotate the pivot-like thingie with the x y and z on it to where you want the new axis to be
+5. Hit F8 again to exit component mode and now you can use the rotate tool on the object to rotate it in the new axis you set.

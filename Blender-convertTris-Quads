@@ -1,0 +1,8 @@
+1. Open Blender
+2. Delete Cube
+3. Import Object
+4. Select Mesh
+5. Change from Object Mode to Edit Mode
+6. Mesh -> Faces -> Tris to Quads
+7. Change from Edit Mode to Object Mode
+8. Repeat for other Meshes

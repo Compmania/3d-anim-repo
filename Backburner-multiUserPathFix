@@ -1,0 +1,12 @@
+Create "network" folder in C:/Program Files (x86)/Autodesk/Backburner/
+
+Windows XP:
+C:\Documents and Settings\USER NAME\Local Settings\Application Data\backburner
+
+Windows 7:
+C:\Users\USER NAME\AppData\Local\backburner
+
+Edit nrapi.conf:
+NetworkPath=C:/Program Files (x86)/Autodesk/Backburner/network
+
+move backburner.xml to new folder: C:/Program Files (x86)/Autodesk/Backburner/network

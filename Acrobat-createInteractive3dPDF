@@ -1,0 +1,7 @@
+Create Interactive 3D PDF files
+
+Acrobat professional can create interactive 3D PDF files. Acrobat Std. will not.
+The objects have to be in .U3D format for this to work.
+Photoshop extended can import .OBJ files to a 3D layer, then allow you to export in the .U3D format. 
+
+Open Acrobat, go to Tools, Advanced Editing, 3D Tool to incorporate the 3D object.

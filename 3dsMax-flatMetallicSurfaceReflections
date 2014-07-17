@@ -1,0 +1,13 @@
+In order to create reflective surfaces from flat objects, you have to apply a 3D noise map to the bump slot:
+
+Source - Object XYZ
+Offset - X:0 Y:0 Z:0
+Tiling - X:1.0 Y:1.0 Z:0.1
+Angle - X:0 Y:0 Z:0
+Blur - 1.0
+Blur offset - 0
+
+Noise Type - Regular
+Noise Threshold - High:1.0 Low:0 Levels:3 Phase:4 Size:13
+Color #1 - Black
+Color #2 - White

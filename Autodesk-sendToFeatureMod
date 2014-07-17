@@ -1,0 +1,15 @@
+Configure Autodesk Send To – for various versions
+
+Edit the cooresponding .syncfg file located at
+
+Windows XP:
+C:\Documents and Settings\All Users\Application Data\Autodesk\Synergy
+
+Windows 7:
+C:\Users\All Users\Autodesk\Synergy
+
+Change the path and save. 
+
+For Maya, use/delete the additional versions as needed.
+
+Ref: http://forums.autodesk.com/t5/Community-Help/Mudbox-Send-to-Maya-NO-EXIST/td-p/4243006

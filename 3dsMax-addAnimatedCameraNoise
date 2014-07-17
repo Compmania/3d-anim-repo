@@ -1,0 +1,5 @@
+Add animated camera noise
+
+On the Motion Panel, replace the existing XYZ Position with a Position List Controller - the original controller will still be there. 
+Add a Noise Controller to the next position in the list controller. 
+Animate the XYZ values for the duration of the shake - 0 strength will cause it to have no effect as if the controller wasn’t there, but you’ll still be able to animate the position of the camera.
